@@ -1,1 +1,1 @@
-# dotnet-exercises
+Dummy repo for dotnet exercises.
