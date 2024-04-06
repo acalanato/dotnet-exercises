@@ -1,0 +1,14 @@
+/home/vagner/Emacs/homework/bin/Debug/net7.0/homework
+/home/vagner/Emacs/homework/bin/Debug/net7.0/homework.deps.json
+/home/vagner/Emacs/homework/bin/Debug/net7.0/homework.runtimeconfig.json
+/home/vagner/Emacs/homework/bin/Debug/net7.0/homework.dll
+/home/vagner/Emacs/homework/bin/Debug/net7.0/homework.pdb
+/home/vagner/Emacs/homework/obj/Debug/net7.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/home/vagner/Emacs/homework/obj/Debug/net7.0/homework.AssemblyInfoInputs.cache
+/home/vagner/Emacs/homework/obj/Debug/net7.0/homework.AssemblyInfo.cs
+/home/vagner/Emacs/homework/obj/Debug/net7.0/homework.csproj.CoreCompileInputs.cache
+/home/vagner/Emacs/homework/obj/Debug/net7.0/homework.dll
+/home/vagner/Emacs/homework/obj/Debug/net7.0/refint/homework.dll
+/home/vagner/Emacs/homework/obj/Debug/net7.0/homework.pdb
+/home/vagner/Emacs/homework/obj/Debug/net7.0/homework.genruntimeconfig.cache
+/home/vagner/Emacs/homework/obj/Debug/net7.0/ref/homework.dll

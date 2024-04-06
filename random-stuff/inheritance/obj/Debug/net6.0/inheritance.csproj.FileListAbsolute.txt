@@ -1,0 +1,14 @@
+/home/vagner/Emacs/inheritance/bin/Debug/net6.0/inheritance
+/home/vagner/Emacs/inheritance/bin/Debug/net6.0/inheritance.deps.json
+/home/vagner/Emacs/inheritance/bin/Debug/net6.0/inheritance.runtimeconfig.json
+/home/vagner/Emacs/inheritance/bin/Debug/net6.0/inheritance.dll
+/home/vagner/Emacs/inheritance/bin/Debug/net6.0/inheritance.pdb
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfoInputs.cache
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/inheritance.AssemblyInfo.cs
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/inheritance.csproj.CoreCompileInputs.cache
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/inheritance.dll
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/refint/inheritance.dll
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/inheritance.pdb
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/inheritance.genruntimeconfig.cache
+/home/vagner/Emacs/inheritance/obj/Debug/net6.0/ref/inheritance.dll

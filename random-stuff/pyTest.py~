@@ -1,0 +1,5 @@
+import io
+
+pirnt 
+nada = "funciona nada"
+print(nada)

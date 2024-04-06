@@ -4,7 +4,6 @@
 //int hero = 10;
 //int monster = 10;
 
-
 /*
 do {
     current = rand.Next(1, 11);
@@ -61,25 +60,55 @@ do {
 } while (!int.TryParse(userInput, out numInput));
 
 
-*/
+
 
 
 string? userInput;
-int numInput;
+int numInput = 0;
 
 Console.WriteLine("Please, enter a number between 5 and 10");
-while (true) {
+bool end = false;
+while (!end) {
     do {
         userInput = Console.ReadLine();
-    } while (!int.TryParse(userInput, out numInput));
+        Console.WriteLine("Please enter a number between 5 and 10");
+    } while (!int.TryParse(userInput, out numInput) && !end);
     if ((numInput > 4)&&(numInput < 11)) {
         Console.WriteLine($"Number {numInput} is valid.");
-        break;
+        end = true;
     } else {
         if (int.TryParse(userInput, out numInput)) {
             Console.WriteLine($"You entered {numInput}, please enter a number between 5 and 10");
             userInput = Console.ReadLine();
-        } else {break;}
+//            Console.WriteLine("inside second loop");
+        } else {end = true;}
     }
 }
+Console.WriteLine($"Your input {numInput} has been accepted.");
+
+*/
+
+string? userInput;
+int numInput = 0;
+bool end = false;
+
+Console.WriteLine("Please, enter a number between 5 and 10");
+while (!end) {
+    {
+        userInput = Console.ReadLine();
+        if (int.TryParse(userInput, out numInput)) {
+            if  ((numInput < 4) && (numInput > 11) ) {
+                Console.WriteLine($"You entered {numInput}, please enter a number between 5 and 10");
+                userInput = Console.ReadLine();
+            } else {
+                Console.WriteLine("first if end");
+                end = true;
+            }
+        } else {
+            Console.WriteLine("Must enter a number:");
+            userInput = Console.ReadLine();
+        }
+    }
+    while (!end);
+};
 Console.WriteLine($"Your input {numInput} has been accepted.");

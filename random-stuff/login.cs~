@@ -1,0 +1,6 @@
+using System;
+
+namespace Login;
+{
+    class Program
+}

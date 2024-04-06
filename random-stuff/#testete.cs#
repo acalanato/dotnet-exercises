@@ -1,0 +1,13 @@
+public class Figura
+{
+  public virtual void desenhar() {}
+}
+public class Quadrado : Figura
+{
+  public override void desenhar()
+  {
+      base.desenhar();
+    // chamar Figura.desenhar()
+  }
+}
+

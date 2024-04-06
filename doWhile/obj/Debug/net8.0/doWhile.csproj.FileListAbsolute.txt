@@ -1,0 +1,15 @@
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/doWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/doWhile.AssemblyInfoInputs.cache
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/doWhile.AssemblyInfo.cs
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/doWhile.csproj.CoreCompileInputs.cache
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/doWhile.sourcelink.json
+/home/vagner/Documentos/dotnet-exercises/doWhile/bin/Debug/net8.0/doWhile
+/home/vagner/Documentos/dotnet-exercises/doWhile/bin/Debug/net8.0/doWhile.deps.json
+/home/vagner/Documentos/dotnet-exercises/doWhile/bin/Debug/net8.0/doWhile.runtimeconfig.json
+/home/vagner/Documentos/dotnet-exercises/doWhile/bin/Debug/net8.0/doWhile.dll
+/home/vagner/Documentos/dotnet-exercises/doWhile/bin/Debug/net8.0/doWhile.pdb
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/doWhile.dll
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/refint/doWhile.dll
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/doWhile.pdb
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/doWhile.genruntimeconfig.cache
+/home/vagner/Documentos/dotnet-exercises/doWhile/obj/Debug/net8.0/ref/doWhile.dll

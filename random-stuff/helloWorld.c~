@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdbool.h> // necessário pra usar bool
+#include <stdio.h>
+
+const int TESTE = 2; // convenção: declarar const em letras maiúsculas
+//long unsigned int = %lu
+
+int numInt() {
+  int n = 1;
+  return n;
+}
+
+float numDiv() {
+  float n = 2.0;
+  return n;
+}
+
+char letra() {
+  char a = 't';
+  return a;
+}
+
+float sum(int a, int b) {
+  return (float) a / (b + TESTE);
+}
+
+int main() {
+  printf("Minha letra  = %c\n", letra());
+  printf("Meu número inteiro = %i\n", numInt());
+  printf("Meu número divisível = %f\n", numDiv()); // precisão decimal definida por' %.4'
+  printf("soma = %.3f\n", sum(5,2));
+  for (int i = 0; i <= 3; i++) {
+    printf("iteraction = %d\n", i);
+  }
+  return 0;
+}

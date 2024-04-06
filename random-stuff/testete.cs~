@@ -1,0 +1,34 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace DemoApplication
+{
+class Program
+{
+public static void Main(string[] args)
+{
+double temperatura;
+Console.WriteLine("Digite a temperatura do animal: ");
+temperatura = double.Parse(Console.ReadLine());
+while (temperatura >39)
+{
+Console.WriteLine("temperatura atual (ºC) = {0}", temperatura);
+Console.WriteLine("Temperatura acima do normal");
+break;
+}
+if (temperatura <= 39 && temperatura >= 37)
+{
+Console.WriteLine("Temperatura atual (ºC) = {0}", temperatura);
+Console.WriteLine("Temperatura normal");
+}
+while (temperatura < 37)
+{
+Console.WriteLine("Temperatura atual (ºC) = {0}", temperatura);
+Console.WriteLine("Temperatura abaixo do normal");
+break;
+}
+}
+}
+}
