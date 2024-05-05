@@ -1,0 +1,15 @@
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/bin/Debug/net8.0/Final
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/bin/Debug/net8.0/Final.deps.json
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/bin/Debug/net8.0/Final.runtimeconfig.json
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/bin/Debug/net8.0/Final.dll
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/bin/Debug/net8.0/Final.pdb
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/Final.sourcelink.json
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/Final.dll
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/refint/Final.dll
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/Final.pdb
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/home/vagner/Documentos/dotnet-exercises/branch-loop/final/obj/Debug/net8.0/ref/Final.dll

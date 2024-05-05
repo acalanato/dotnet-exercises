@@ -60,8 +60,10 @@ do {
     userInput = Console.ReadLine();
 } while (!int.TryParse(userInput, out numInput));
 
-
+try for datatype
 } while (!int.TryParse(userInput, out numInput));
+
+validate input 
 */
 
 
@@ -73,16 +75,17 @@ Console.WriteLine("Please, enter a number between 5 and 10");
 
 do {
     userInput = Console.ReadLine();
-    
-    if ((numInput > 4)&&(numInput < 11)) {
-        Console.WriteLine($"Number {numInput} is valid.");
-        end = true;
+    end = (int.TryParse(userInput, out numInput));
+    if (userInput != null) {
+//       ((numInput > 4)&&(numInput < 11)) {
+        Console.WriteLine($"Number {numInput} is invalid, try again.");
     } else {
-        if (int.TryParse(userInput, out numInput)) {
-            Console.WriteLine($"You entered {numInput}, please enter a number between 5 and 10");
+        if ((numInput > 4)&&(numInput < 11)) {
+            Console.WriteLine($"You entered {numInput}, thanks!");
             userInput = Console.ReadLine();
-        } else {end = true;}
-    } while (!end);
-    if (pass) end = true;
+            end = true;
+        };
+    };
 } while (!end);
+
 Console.WriteLine($"Your input {numInput} has been accepted.");
